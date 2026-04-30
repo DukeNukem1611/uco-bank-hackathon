@@ -1,6 +1,7 @@
 # SecURI CI/CD DevSecOps Engine
 
 An advanced static analysis and dependency scanning tool designed to integrate seamlessly into modern CI/CD pipelines. This tool uncovers both hidden CVEs in dependencies and insecure configurations in source code (e.g., hardcoded secrets, weak cryptography, and debugging flags left enabled).
+Live Server: https://uco-bank-hackathon-qo1l.vercel.app/
 
 ## 🚀 Features
 
