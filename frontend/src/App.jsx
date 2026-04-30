@@ -37,7 +37,7 @@ function App() {
     setResults(null)
 
     try {
-      const response = await fetch('http://localhost:8000/scan', {
+      const response = await fetch('https://uco-bank-hackathon-g8mm.vercel.app/scan', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
